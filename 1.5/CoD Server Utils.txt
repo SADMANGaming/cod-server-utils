@@ -1,0 +1,35 @@
+CoD Server Utils v1.0
+==============================================================
+Author: Sadman
+Website: https://cod1.rf.gd/
+Discord: .sadman_
+Date started: 6/26/2024
+==============================================================
+
+
+Description:
+CoD Server Utils is a CoD 1.1 server side plugin that adds more feautures to the game!
+
+
+Note:
+VCODLIB/LIBCOD1 is required to run it!
+
+
+Installation:
+CoD 1.1:
+1. Place cod_server_utils_svr_.pk3 into your server's main folder.
+2. Open your server's config file and add this line:
+   exec CoDSU.cfg
+3. Run the server!
+
+
+
+Credits:
+
+Sadman
+Cato
+Indy
+TheWikiFesh
+Hammer
+Raphael
+and others!
