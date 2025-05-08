@@ -1,5 +1,6 @@
 # [CoD](https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)) SERVER UTILS
-
+- Unfinished but you can use these scripts on your server
+- Dosen't requires codam
 
 ### FEATURES:
 - OneShot 
@@ -21,6 +22,7 @@
 - Digital bomb timer
 - Anti camper
 - Improved Killcam
+- etc?
 
 ### TODO
 - I dont know rn
