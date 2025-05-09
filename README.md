@@ -31,3 +31,10 @@
 - Supported game version: **1.1**
 - Supported gametypes: **TDM, DM, SD**
 - Requires LIBCOD1/VCODLIB
+
+### CREDITS
+- Cato
+- TheWikiFesh
+- Raphael
+- ChatGPT
+- etc?
